@@ -1,0 +1,77 @@
+.friends-links-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .friends-links-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.friend-link-card {
+    width: 200px;
+    height: 250px;
+    border: 1px solid #aeaeaecc;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    /* 使用 flex 布局，子元素垂直排列 */
+    display: flex;
+    flex-direction: column;
+    /* 子元素水平居中 */
+    align-items: center; 
+     /* 添加光标样式 */
+    cursor: pointer; 
+    background-color:white;
+}
+
+.friend-link-card:hover {
+    /* 悬停时背景颜色改变 */
+    background-color: #30a141; 
+}
+
+.friend-link-card .avatar-area {
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    transition: all 0.3s ease;
+}
+
+.friend-link-card .name-area {
+    width: 190px;
+    height: 40px;
+    padding-top: 2px;
+    text-align: center;
+     /* 字体大小改为 30px */
+    font-size: 26px; 
+    font-weight: bold;
+}
+
+.friend-link-card .description-area {
+    width: 190px;
+    height: 50px;
+    padding-top: 2px;
+    font-size: 14px;
+    color: #666;
+    overflow: hidden;
+    transition: all 0.3s ease;
+     /* 文字水平居中 */
+    text-align: center; 
+}
+
+.friend-link-card:hover .avatar-area {
+    height: 100px;
+    filter: brightness(0.8);
+}
+
+.friend-link-card:hover .name-area {
+    /* 悬停时名称区域字体颜色变为白色 */
+    color: white; 
+}
+.friend-link-card:hover .description-area {
+    height: 100px;
+    color: #bac3bb;
+}

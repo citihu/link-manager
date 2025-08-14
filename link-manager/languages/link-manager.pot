@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-11 15:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Professional link management tool, providing complete link management functions and beautiful front - end display"
+msgstr ""
+
+msgid "Friend Links"
+msgstr ""
+
+msgid "Friend Link List"
+msgstr ""
+
+msgid "站点名称"
+msgstr ""
+
+msgid "站点地址"
+msgstr ""
+
+msgid "站点头像URL"
+msgstr ""
+
+msgid "站点头像"
+msgstr ""
+
+msgid "站点描述"
+msgstr ""
+
+msgid "操作"
+msgstr ""
+
+msgid "编辑"
+msgstr ""
+
+msgid "删除"
+msgstr ""
+
+msgid "批量删除"
+msgstr ""
+
+msgid "添加新链接"
+msgstr ""
+
+msgid "友情链接管理"
+msgstr ""
+
+msgid "添加链接"
+msgstr ""
+
+msgid "更新链接"
+msgstr ""
+
+msgid "链接添加成功"
+msgstr ""
+
+msgid "链接添加失败"
+msgstr ""
+
+msgid "链接更新成功"
+msgstr ""
+
+msgid "链接更新失败"
+msgstr ""
+
+msgid "链接删除成功"
+msgstr ""
+
+msgid "链接删除失败"
+msgstr ""
+
+msgid "批量删除成功"
+msgstr ""
+
+msgid "排序更新成功"
+msgstr ""
+
+msgid "CSV导入成功"
+msgstr ""
+
+msgid "权限不足"
+msgstr ""
+
+msgid "必填字段不能为空"
+msgstr ""
+
+msgid "站点地址格式不正确"
+msgstr ""
+
+msgid "站点头像URL格式不正确"
+msgstr ""
+
+msgid "确定要删除这个链接吗？"
+msgstr ""
+
+msgid "确定要批量删除选中的链接吗？"
+msgstr ""
+
+msgid "文件上传失败"
+msgstr ""
+
+msgid "无法打开文件"
+msgstr ""
+
+msgid "导入/导出"
+msgstr ""
+
+msgid "导入CSV"
+msgstr ""
+
+msgid "导出CSV"
+msgstr ""
