@@ -5,7 +5,7 @@
  * Description:       Professional friend link management tool, providing complete link management functions and beautiful front - end display
  * Version:           1.0.1
  * Author:            citihai
- * Author URI:        
+ * Author URI:        https://woolyun.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       link-manager
