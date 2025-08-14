@@ -54,27 +54,8 @@ GPL-2.0+
 
 天海牧歌 - [https://woolyun.com](https://woolyun.com)
 
-### 文件说明
-
-## 文件结构
-link-manager/
-├── link-manager.php
-├── includes/
-│   ├── class-linkmanager-plugin.php
-│   ├── class-linkmanager-table.php
-│   ├── class-linkmanager-shortcode.php
-│   ├── class-linkmanager-admin.php
-├── assets/
-│   ├── css/
-│   │   └── admin.css
-│   │   └── frontend.css
-│   ├── js/
-│       ├── admin.js
-│       └── frontend.js
-├── languages/
-│   └── links-manager.pot
-
-##文件功能
+## 文件说明
+### 文件功能
 1. link-manager.php ：主插件文件，负责定义常量、自动加载类文件、初始化插件和注册卸载钩子。
 2. class-linkmanager-plugin.php ：主类，负责插件的初始化、加载文本域、创建数据库表和卸载清理操作。
 3. class-linkmanager-table.php ：继承 WP_List_Table 类，用于在后台展示友情链接列表。
@@ -84,6 +65,6 @@ link-manager/
 7. frontend.css ：前端展示界面的样式文件。
 8. admin.js ：后台管理界面的 JavaScript 文件，处理表单提交、删除、排序、导入导出等交互逻辑。
 9. frontend.js ：前端展示界面的 JavaScript 文件，可用于添加前端交互逻辑。
-
 10. link-manager.pot ：国际化 POT 文件，用于多语言翻译。
+
 
