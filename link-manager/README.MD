@@ -5,8 +5,8 @@
 ## 🌁 效果
 [友情链接](https://woolyun.com/friends-links/)
 ![后台图1](https://github.com/citihu/link-manager/blob/main/link-manager/%E5%90%8E%E5%8F%B0%E5%9B%BE1.JPG)
-![后台图1](https://github.com/citihu/link-manager/blob/main/link-manager/%E5%90%8E%E5%8F%B0%E5%9B%BE1.JPG)
-![效果图]()
+![后台图2](https://github.com/citihu/link-manager/blob/main/link-manager/%E5%90%8E%E5%8F%B0%E5%9B%BE2.JPG)
+![效果图](https://github.com/citihu/link-manager/blob/main/link-manager/%E6%95%88%E6%9E%9C%E5%9B%BE.JPG)
 
 ## ✨ 特色功能
 
@@ -86,3 +86,4 @@ link-manager/
 9. frontend.js ：前端展示界面的 JavaScript 文件，可用于添加前端交互逻辑。
 
 10. link-manager.pot ：国际化 POT 文件，用于多语言翻译。
+
